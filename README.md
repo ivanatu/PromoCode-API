@@ -25,7 +25,8 @@ Python 2.7.1x+. preferably use Python 3.x.x+
   
 Running the application
 To run this application on a linux box or windows, execute the following command.
-
+  First create a directory where you want your work to be saved and navigate to that directory
+    $ open cmd and from that folder git clone https://github.com/ivanatu/PromoCode-API.git
     $ cd Promo_code_api
     $ virtualenv venv
     $ source venv/bin/activate on linux and venv\Scripts\activate on windows
