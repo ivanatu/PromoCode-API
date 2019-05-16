@@ -4,7 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 # Initialize application
 promoapp = Flask(__name__, static_folder=None)
-TEST = True
+TEST = False
 
 promoapp.config['DEBUG'] = True
 if os.environ.get('DATABASE_URL'):
