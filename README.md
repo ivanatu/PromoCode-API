@@ -51,7 +51,7 @@ Tests
 
 #### Endpoints for our application
 HTTP Method|End point |Action
------------|----------|--------------|------
+-----------|----------|--------------|
 POST | /generate_code | Creation of a promo code
 PUT | /promo_code/<int:id> | Deactivate a particular promo code
 GET | /all_promo_codes | Display all promo codes
