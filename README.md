@@ -36,7 +36,6 @@ To run this application on a linux box or windows, execute the following command
     use can name them accordingly i.e promo_code and tests
     $ set SQLALCHEMY_DATABASE_URI=postgresql://postgres:1234@localhost:5432/promo_code
     $ set SQLALCHEMY_DATABASE_URI2=postgresql://postgres:1234@localhost:5432/tests
-    $ set SECRET_KEY='thisisthesecretkey'
     $ python manage.py db init
     $ python manage.py db migrate
     $ python manage.py db upgrade
