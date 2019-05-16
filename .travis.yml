@@ -14,7 +14,7 @@ before_script:
 
 # command to run tests
 script:
-  - nosetests --with-coverage app/tests/
+  - nosetests --with-coverage app/tests/test_app.py
 
 after_success:
   - coveralls
