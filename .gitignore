@@ -1,0 +1,15 @@
+.idea
+env/
+*/.DS_Store
+**/*.pyc
+**/pycache/
+.DS_Store
+#*.cpython-36.pyc
+.cache/v/cache/lastfailed
+.cache/*
+*_.py
+.coverage
+.coverage.*
+.env
+venv
+
