@@ -62,3 +62,5 @@ POST | /test_validity | Testing the validity  of a promo code
 
 Note: You can test the end points using postman a google app
 For example http://127.0.0.1:5000/all_promo_codes returns all codes in json format
+
+![Generating code](https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/active%20promo%20codes.jpg)
