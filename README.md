@@ -64,7 +64,7 @@ Note: You can test the end points using postman a google app
 For example http://127.0.0.1:5000/all_promo_codes returns all codes in json format
 
 ![alt text](https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/generate%20code%20json%20input.jpg)
-(https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/deactivate%20promo%20code.jpg)
-(https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/all%20promo%20codes.jpg)
-(https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/active%20promo%20codes.jpg)
-(https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/test_validity.jpg)
+![alt text](https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/deactivate%20promo%20code.jpg)
+![alt text](https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/all%20promo%20codes.jpg)![alt text]
+![alt text](https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/active%20promo%20codes.jpg)
+![alt text](https://github.com/ivanatu/PromoCode-API/blob/master/app/static/img/test_validity.jpg)
