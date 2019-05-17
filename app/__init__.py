@@ -16,7 +16,6 @@ else:
         promoapp.config['SQLALCHEMY_DATABASE_URI'] = os.environ['SQLALCHEMY_DATABASE_URI']
 
 promoapp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
-promoapp.config['SECRET_KEY'] = os.environ['SECRET_KEY']
 db = SQLAlchemy(promoapp)
 db.init_app(promoapp)
 
